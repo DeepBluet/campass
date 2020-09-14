@@ -1,18 +1,17 @@
 {
   "name": "campass",
   "version": "1.0.0",
+  "description": "心之所向，无事不成",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm test"
   },
-  "keywords": [],
-  "author": "南街北巷",
-  "license": "MIT",
-  "description": "心之所向，无事不成",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DeepBluet/campass.git"
   },
+  "author": "南街北巷",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DeepBluet/campass/issues"
   },
